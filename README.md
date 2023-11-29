@@ -1,6 +1,6 @@
 # Airline-Passenger-Satisfaction-Dataset-Analysis
 Analysis of Airline Passenger Satisfaction Data set: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data
-#### About analyzed data set:
+#### About the analyzed data set:
 This dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger? Can you predict passenger satisfaction?
 
 #### Content of the data set:
